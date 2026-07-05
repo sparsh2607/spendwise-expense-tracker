@@ -185,13 +185,6 @@ Frontend will run at:
 
 ```text
 http://localhost:5173
-
-## Screenshots
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-```
 ---
 
 ## API Endpoints
