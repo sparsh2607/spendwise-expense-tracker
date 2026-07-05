@@ -26,7 +26,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "https://spendwise-expense-tracker-kohl.vercel.app/"
+        "https://spendwise-expense-tracker-19b29tctp-sparsh2607s-projects.vercel.app/"
     ],
     allow_credentials=True,
     allow_methods=["*"],
