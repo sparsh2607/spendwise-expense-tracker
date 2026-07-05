@@ -331,6 +331,11 @@ http://127.0.0.1:8000
 Make sure the backend server is running before using the frontend.
 
 ---
+## Live Demo
+
+Frontend: https://spendwise-expense-tracker-19b29tctp-sparsh2607s-projects.vercel.app/
+
+Backend API: https://spendwise-expense-tracker-qj5o.onrender.com/docs
 
 ## Future Improvements
 
