@@ -314,15 +314,9 @@ The test suite checks:
 
 ## Screenshots
 
-Create a `screenshots` folder in the root directory and add your dashboard screenshot as:
+### Dashboard
 
-```text
-screenshots/dashboard.png
-```
-
-Then this image will appear below:
-
-![Dashboard](screenshots/dashboard.png)
+![SpendWise Dashboard](screenshots/dashboard.png)
 
 ---
 
